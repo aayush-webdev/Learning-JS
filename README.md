@@ -37,7 +37,7 @@ Each folder focuses on one concept or feature, with:
 
 simple examples
 
-commented code for clarity
+commented codes for more clearity and understandings..
 
 small tasks or mini projects
 
