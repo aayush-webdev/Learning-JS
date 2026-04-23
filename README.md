@@ -51,4 +51,6 @@ Practice writing readable & maintainable code
 
 Prepare for frontend interviews
 
-Serve as a reference for future projects
+Serve as a reference for future projects.
+
+and also I am going to uploads php and MySQL over here or somewhere else 
