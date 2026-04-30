@@ -3,7 +3,7 @@
 This repository documents my JavaScript learning journey, where I practice and implement core concepts through small, focused examples and mini-projects.
 The goal of this repo is to strengthen fundamentals, understand real-world usage, and build confidence in writing clean JavaScript code.
 
-🚀 What I’m Learning & Practicing
+## 🚀 What I’m Learning & Practicing
 
 JavaScript basics (variables, data types, operators)
 
@@ -23,7 +23,7 @@ Error handling & debugging
 
 Mini projects for hands-on practice
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 JavaScript (Vanilla JS)
 
@@ -31,7 +31,7 @@ HTML
 
 CSS
 
-📂 Structure
+## 📂 Structure
 
 Each folder focuses on one concept or feature, with:
 
@@ -43,7 +43,7 @@ small tasks or mini projects
 
 This makes it easy to revise concepts quickly and track progress over time.
 
-🎯 Purpose of This Repo
+## 🎯 Purpose of This Repo
 
 Build strong JavaScript fundamentals
 
