@@ -1,4 +1,4 @@
-#📌 JavaScript Learning Playground
+# 📌 JavaScript Learning Playground
 
 This repository documents my JavaScript learning journey, where I practice and implement core concepts through small, focused examples and mini-projects.
 The goal of this repo is to strengthen fundamentals, understand real-world usage, and build confidence in writing clean JavaScript code.
